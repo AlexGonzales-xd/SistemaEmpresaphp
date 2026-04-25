@@ -33,6 +33,7 @@
 
 
 ### Diagrama Entidad-Relacion (DER)
+<img width="725" height="707" alt="image" src="https://github.com/user-attachments/assets/16124a6c-6c38-4860-bb29-bf445fcee4e2" />
 
  
 ### Modelo Relacional (MR)
