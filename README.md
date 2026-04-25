@@ -72,7 +72,7 @@ estado enum('asistio', 'tardanza', 'falto') default 'falto' not null,
 id_empleado int not null,
 foreign key (id_empleado) references empleado(id_empleado)
 )ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-´´´sql
+sql´´´
  
 ### Modelo Relacional (MR)
 
