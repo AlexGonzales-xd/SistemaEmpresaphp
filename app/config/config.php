@@ -1,2 +1,2 @@
 <?php
-define("TITLE", "ASISTENSIA");
+define("TITLE_BUSINESS", "ASISTENSIA");
