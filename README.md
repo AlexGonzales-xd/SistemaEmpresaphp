@@ -33,7 +33,8 @@
 
 
 ### Diagrama Entidad-Relacion (DER)
-´´´sql
+<img width="725" height="707" alt="image" src="https://github.com/user-attachments/assets/16124a6c-6c38-4860-bb29-bf445fcee4e2" />
+´´´
 create database senai_asistencia;
 use senai_asistencia;
 
@@ -71,9 +72,7 @@ estado enum('asistio', 'tardanza', 'falto') default 'falto' not null,
 id_empleado int not null,
 foreign key (id_empleado) references empleado(id_empleado)
 )ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-´´´
-<img width="725" height="707" alt="image" src="https://github.com/user-attachments/assets/16124a6c-6c38-4860-bb29-bf445fcee4e2" />
-
+´´´sql
  
 ### Modelo Relacional (MR)
 
