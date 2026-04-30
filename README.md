@@ -78,7 +78,7 @@ También podemos llamar la atención para que la gente le interese la película,
 
 
 
- <img width="281" height="179" alt="image" src="https://github.com/user-attachments/assets/60f44fc2-191b-4529-963f-ce79d2ec9aac" />
+## <img width="281" height="179" alt="image" src="https://github.com/user-attachments/assets/60f44fc2-191b-4529-963f-ce79d2ec9aac" />
 
 
 
