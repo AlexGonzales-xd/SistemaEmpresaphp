@@ -24,3 +24,4 @@ class Database {// Clase para conectarse con la base de datos utilizando PDO.
          return self::$connection;     
     }           
 }
+?>
