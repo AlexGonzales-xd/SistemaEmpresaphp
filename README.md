@@ -20,7 +20,6 @@ Talvez haciendo esto la caída de la página serán menos frecuentes, y asi las 
 
  
 ## Requerimientos Funcionales
-* Requerimientos funcionales (entradas virtuales)
 * Generación de entradas
 Generar automáticamente una entrada digital después del pago.
 Incluir código QR único por cada entrada.
@@ -42,7 +41,6 @@ Permitir reprogramación de función (según políticas).
 Anulación de entradas con reembolso o crédito.
  
 ## Requerimientos No Funcionales
-* Requerimientos no funcionales (entradas virtuales)
 * Seguridad
 Generación de códigos QR únicos e imposibles de duplicar.
 Protección contra fraude o falsificación de entradas.
@@ -63,7 +61,17 @@ Evitar duplicidad o uso múltiple del mismo código.
 Sincronización en tiempo real con el sistema del cine.
 * Escalabilidad
 Soportar miles de validaciones simultáneas en horarios pico.
-Adaptarse a eventos masivos (estrenos). 
+Adaptarse a eventos masivos (estrenos).
+
+##¿A qué se dedicara este proyecto? 
+Aun esta idea no tiene un nombre en específico, lo que se dedicara mayormente a la promoción y publicidad sobre entretenimiento cinematográfico, mostrando las películas de estreno y las próximas que vendrán, además al estar afiliada con otra empresa, las personas podrán comprar los boletas de la película que quieren ver. 
+
+Estaríamos usando algunos trucos publicitarios, tales como mostrar en los Tráilers las partes más importante de la película que se están por estrenar, pueden ser usando escenas de acción, drama o chistoso.
+También podemos llamar la atención para que la gente le interese la película, ya sea comentando quienes serán los actores que están en ella, o tener un poster llamativo. 
+
+##Imagen del problema
+<img width="759" height="629" alt="image" src="https://github.com/user-attachments/assets/fe376ebe-33de-4d19-bfec-e98e2cc90e50" />
+
 
 ## Stack completo
 
