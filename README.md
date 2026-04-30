@@ -8,14 +8,62 @@ Cineplanet es la cadena de cines líder en Perú, fundada en 1999, que opera má
 Se caracteriza por ofrecer salas 2D, 3D y su formato exclusivo Cineplanet Prime, con butacas reclinables, servicio a la sala y áreas de bar exclusivas.
 
 ## Identificar el problema y solución
+¿Problemas Iniciales?
+Algunos problemas que tendríamos mayormente para la página, seria que cuando una película es muy esperada por muchas personas, las comprar de los boletos son muy pedidas.
+y conlleva a que la pagina termine teniendo fallos, como caídas frecuentes por las comprar acumuladas.
+
+¿Solución del problema? 
+Una de las soluciones que estoy planeando, será de buscar la forma de que la caída de la página paren o sean menos frecuentes, ya sea usando códigos usando Visual Studios Code,
+u otros programas de programación mucho más eficaces y profesionales. 
+Talvez haciendo esto la caída de la página serán menos frecuentes, y asi las personas podrán los boletas de la película que verán 
 
 
  
 ## Requerimientos Funcionales
-
+*Requerimientos funcionales (entradas virtuales)
+* Generación de entradas
+Generar automáticamente una entrada digital después del pago.
+Incluir código QR único por cada entrada.
+Asociar la entrada al usuario o correo electrónico.
+* Entrega de entradas
+Enviar las entradas por correo electrónico.
+Mostrar las entradas en la app/web del usuario.
+Permitir descarga en formato PDF o imagen.
+* Validación de entradas
+Escaneo del código QR en el cine.
+Verificación en tiempo real (válida, usada, duplicada).
+Marcar la entrada como “usada” tras el ingreso.
+* Gestión del usuario
+Acceso al historial de entradas virtuales.
+Reenvío de entradas en caso de pérdida.
+Posibilidad de transferir entradas (opcional).
+* Cambios y cancelaciones
+Permitir reprogramación de función (según políticas).
+Anulación de entradas con reembolso o crédito.
  
 ## Requerimientos No Funcionales
- 
+*Requerimientos no funcionales (entradas virtuales)
+* Seguridad
+Generación de códigos QR únicos e imposibles de duplicar.
+Protección contra fraude o falsificación de entradas.
+Encriptación de datos del ticket.
+* Rendimiento
+Generación inmediata del ticket tras el pago.
+Validación del QR en menos de 2 segundos.
+* Usabilidad
+Fácil acceso a la entrada desde el celular.
+No requerir impresión (uso 100% digital).
+Interfaz clara para mostrar el QR.
+* Disponibilidad
+Acceso a entradas en cualquier momento (24/7).
+Funcionamiento incluso con conexión limitada (modo offline parcial).
+* Confiabilidad
+Cada entrada debe ser única.
+Evitar duplicidad o uso múltiple del mismo código.
+Sincronización en tiempo real con el sistema del cine.
+* Escalabilidad
+Soportar miles de validaciones simultáneas en horarios pico.
+Adaptarse a eventos masivos (estrenos). 
 
 ## Stack completo
 
