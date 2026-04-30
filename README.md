@@ -70,7 +70,8 @@ Estaríamos usando algunos trucos publicitarios, tales como mostrar en los Trái
 También podemos llamar la atención para que la gente le interese la película, ya sea comentando quienes serán los actores que están en ella, o tener un poster llamativo. 
 
 ##Imagen del problema
-<img width="759" height="629" alt="image" src="https://github.com/user-attachments/assets/fe376ebe-33de-4d19-bfec-e98e2cc90e50" />
+<img width="168" height="300" alt="image" src="https://github.com/user-attachments/assets/104ca744-d5c9-4be7-bcf9-4c2896ce94b4" />
+
 
 
 ## Stack completo
