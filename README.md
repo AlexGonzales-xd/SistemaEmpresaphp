@@ -20,7 +20,7 @@ Talvez haciendo esto la caída de la página serán menos frecuentes, y asi las 
 
  
 ## Requerimientos Funcionales
-*Requerimientos funcionales (entradas virtuales)
+* Requerimientos funcionales (entradas virtuales)
 * Generación de entradas
 Generar automáticamente una entrada digital después del pago.
 Incluir código QR único por cada entrada.
@@ -42,7 +42,7 @@ Permitir reprogramación de función (según políticas).
 Anulación de entradas con reembolso o crédito.
  
 ## Requerimientos No Funcionales
-*Requerimientos no funcionales (entradas virtuales)
+* Requerimientos no funcionales (entradas virtuales)
 * Seguridad
 Generación de códigos QR únicos e imposibles de duplicar.
 Protección contra fraude o falsificación de entradas.
