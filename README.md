@@ -1,10 +1,11 @@
 ## TRELLO
 
 
-# Sistema de .......
+# Sistema de ventas de entradas al cine
 
 ## Descripcion del negocio
-
+Cineplanet es la cadena de cines líder en Perú, fundada en 1999, que opera más de 40 complejos (principalmente en Perú y algunos en Chile).
+Se caracteriza por ofrecer salas 2D, 3D y su formato exclusivo Cineplanet Prime, con butacas reclinables, servicio a la sala y áreas de bar exclusivas.
 
 ## Identificar el problema y solución
 
