@@ -69,8 +69,13 @@ Aun esta idea no tiene un nombre en específico, lo que se dedicara mayormente a
 Estaríamos usando algunos trucos publicitarios, tales como mostrar en los Tráilers las partes más importante de la película que se están por estrenar, pueden ser usando escenas de acción, drama o chistoso.
 También podemos llamar la atención para que la gente le interese la película, ya sea comentando quienes serán los actores que están en ella, o tener un poster llamativo. 
 
-##Imagen del problema
-<img width="168" height="300" alt="image" src="https://github.com/user-attachments/assets/104ca744-d5c9-4be7-bcf9-4c2896ce94b4" />
+## Imagen del problema
+
+* <img width="168" height="300" alt="image" src="https://github.com/user-attachments/assets/104ca744-d5c9-4be7-bcf9-4c2896ce94b4" />
+
+## Imagen de la empresa
+* <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/d94c59df-7092-4f84-94df-bb8e5fd19a7d" />
+* <img width="281" height="179" alt="image" src="https://github.com/user-attachments/assets/60f44fc2-191b-4529-963f-ce79d2ec9aac" />
 
 
 
