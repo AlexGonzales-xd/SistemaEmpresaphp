@@ -4,3 +4,7 @@ RewriteEngine On
 #Redireccionar si entran a la raiz del proyecto 
 RewriteRule ^$ app/index.php [L]
 
+# Eliminar ambas extenciones .php y ,html con hthaccess
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
