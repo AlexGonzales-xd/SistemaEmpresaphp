@@ -9,9 +9,9 @@
 <body>
     <form action="#">
         <label for="user">Usuario</label>
-        <input id="user" type="text" require>
+        <input id="user" type="text" name="user" require>
         <label for="pass">Contraseña</label>
-        <input id="pass" type="password">
+        <input id="pass" type="password" name="pass">
         <button type="button">Enviar</button>
     </form>
 </body>
