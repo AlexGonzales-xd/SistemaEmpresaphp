@@ -1,14 +1,13 @@
 <?php
-//Creamos una clase para el usuario - Login
-class Login{
-    // Variable para guardar la conexión a la base de datos
+//Creamos una clase para el usuario - login
+Class Login{
+    //Variable para guardar la conexion
     private PDO $pdo;
-    // Al crear el modelo, obtenemos la conexión automaticamente
-    public function __construct() {
-        $this->db = Database::getConnection();
+    //Al crear el modelo, obtenemos la conexion automaticamente.
+    public function __construct(){
+      $this->db = Database::getConnection();
     }
-    // Buscamos un usuario por su nombre y verificamos su contraseña
-
-    }
+    //Buscamos un usuario por su nombre y verificamos su contraseña.
+    //devuelvo los datos del usuario si es correcto
 
 }
